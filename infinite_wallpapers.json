@@ -1,505 +1,414 @@
-{
-  "wallpapers": [
-    {
-      "name": "Altima",
-      "author": "Nyasha Foya",
-      "url": "http://i.imgur.com/rB2rCk8.png"
- 
-    },
-    {
-      "name": "CityScape",
-      "author": "Nyasha Foya",
-      "url": "http://i.imgur.com/K5CCkJ9.png"
-      
-    },
-    {
-      "name": "Dark City",
-      "author": "Nyasha Foya",
-      "url": "https://raw.githubusercontent.com/jahirfiquitiva/MinDesigns-Wallpapers/master/Wallpapers/Free/wallc.jpg"
-   
-    },
-    {
-      "name": "MountainScape",
-      "author": "Nyasha Foya",
-      "url": "https://raw.githubusercontent.com/jahirfiquitiva/Website-Resources/master/wallpapers/unsplash_e.png" 
-    
-    },
-    {
-      "name": "SandScape",
-      "author": "Nyasha Foya",
-      "url": "https://raw.githubusercontent.com/jahirfiquitiva/Website-Resources/master/wallpapers/unsplash_c.png"
-    
-    },
-    {
-      "name": "Sky Corner",
-      "author": "Nyasha Foya",
-      "url": "https://raw.githubusercontent.com/jahirfiquitiva/Website-Resources/master/wallpapers/unsplash_h.png"
-     
-    },
-    {
-      "name": "Skyline",
-      "author": "Nyasha Foya",
-      "url": "http://i.imgur.com/ouMTVDC.png"
+2: "http://i.imgur.com/eRn2Fy7.jpg"
+		},
+		{
+			"name": "Glowing Woods",
+			"author": "Nyasha Foya",
+			"url": "http://i.imgur.com/9rRCyme.jpg"
+		},
+		{
+			"name": "Crimson Craters",
+			"author": "Nyasha Foya",
+			"url": "http://i.imgur.com/YRG9pRq.jpg"
+		},
+		{
+			"name": "Hazy Skies",
+			"author": "Nyasha Foya",
+			"url": "http://i.imgur.com/P0B99ze.jpg"
+		},
+		{
+			"name": "New Rome",
+			"author": "Nyasha Foya",
+			"url": "http://i.imgur.com/e7DMlgg.jpg"
+		},
+		{
+			"name": "Sky's Edge",
+			"author": "Nyasha Foya",
+			"url": "http://i.imgur.com/DiMf6Pn.jpg"
 
-    },
-    {
-      "name": "Sky Scraper",
-      "author": "Nyasha Foya",
-      "url": "http://i.imgur.com/zT6gprE.png"
-    
-    },
-    {
-      "name": "Snow Scape",
-      "author": "Nyasha Foya",
-      "url": "https://raw.githubusercontent.com/jahirfiquitiva/Website-Resources/master/wallpapers/unsplash_b.png"
-    
-    },
-    {
-      "name": "Water Line",
-      "author": "Nyasha Foya",
-      "url": "https://raw.githubusercontent.com/jahirfiquitiva/Website-Resources/master/wallpapers/unsplash_d.png"
-    
-    },
-    {
-      "name": "Pine Stairs",
-      "author": "Tagg Crossroad",
-      "url": "http://i.imgur.com/j8zRf9D.jpg"
-  
-    },
-    {
-      "name": "Mono Tree ",
-      "author": "Marcel Ducot",
-      "url": "http://i.imgur.com/Jr526uD.jpg"
-    },
-    {
-      "name": "Android N",
-      "author": "Nyasha Foya",
-      "url": "http://i.imgur.com/BxY6Z7b.png"
-    },
-    {
-      "name": "Jagged Edge",
-      "author": "Nyasha Foya",
-      "url": "http://i.imgur.com/0Inl1Wl.jpg"
-    },
-    {
-      "name": "Blood Haven",
-      "author": "Nyasha Foya",
-      "url": "http://i.imgur.com/PyqLUjy.jpg"
-    },
-    {
-      "name": "Hazy Hills",
-      "author": "Nyasha Foya",
-      "url": "http://i.imgur.com/eRn2Fy7.jpg"
-    },
-    {
-      "name": "Glowing Woods",
-      "author": "Nyasha Foya",
-      "url": "http://i.imgur.com/9rRCyme.jpg"
-    },
-    {
-      "name": "Crimson Craters",
-      "author": "Nyasha Foya",
-      "url": "http://i.imgur.com/YRG9pRq.jpg"
-    },
-    {
-      "name": "Hazy Skies",
-      "author": "Nyasha Foya",
-      "url": "http://i.imgur.com/P0B99ze.jpg"
-    },
-    {
-      "name": "New Rome",
-      "author": "Nyasha Foya",
-      "url": "http://i.imgur.com/e7DMlgg.jpg"
-    },
-    {
-      "name": "Sky's Edge",
-      "author": "Nyasha Foya",
-      "url": "http://i.imgur.com/DiMf6Pn.jpg"
-   
-    },
-    {
-      "name": "Dark Streets",
-      "author": "Nyasha Foya",
-      "url": "http://i.imgur.com/idp2TqM.jpg"
-     
-    },
-    {
-      "name": "Cloudy Skyscrapers",
-      "author": "Nyasha Foya",
-      "url": "http://i.imgur.com/fygQ6zs.jpg"
-   
-    },
-    {
-      "name": "Leaning Tower",
-      "author": "Nyasha Foya",
-      "url": "http://i.imgur.com/mTbM1LD.jpg"
-  
-    },
-    {
-      "name": "Carlton City",
-      "author": "Nyasha Foya",
-      "url": "http://i.imgur.com/q2mMZnO.jpg"
-   
-    },
-    {
-      "name": "Hazy Reflections",
-      "author": "Nyasha Foya",
-      "url": "http://i.imgur.com/tBEuZeY.jpg"
-   
-    },
-    {
-      "name": "Symmetry Road",
-      "author": "Nyasha Foya",
-      "url": "http://i.imgur.com/XDhePRa.jpg"
- 
-    },
-    {
-      "name": "Straight Edge",
-      "author": "Nyasha Foya",
-      "url": "http://i.imgur.com/8XRqin6.jpg"
-     
-    },
-    {
-      "name": "Rounded Edge",
-      "author": "Nyasha Foya",
-      "url": "http://i.imgur.com/lSoi2Sm.jpg"
-    
-    },
-    {
-      "name": "The Waves",
-      "author": "Nyasha Foya",
-      "url": "http://i.imgur.com/WIFf8rk.jpg"
+		},
+		{
+			"name": "Dark Streets",
+			"author": "Nyasha Foya",
+			"url": "http://i.imgur.com/idp2TqM.jpg"
 
-    },
-    {
-      "name": "DeLerosè",
-      "author": "Nyasha Foya",
-      "url": "http://i.imgur.com/wMCuZ8R.jpg"
+		},
+		{
+			"name": "Cloudy Skyscrapers",
+			"author": "Nyasha Foya",
+			"url": "http://i.imgur.com/fygQ6zs.jpg"
 
-    },
-    {
-      "name": "Green Forage",
-      "author": "Nyasha Foya",
-      "url": "http://i.imgur.com/JYNoVfM.jpg"
+		},
+		{
+			"name": "Leaning Tower",
+			"author": "Nyasha Foya",
+			"url": "http://i.imgur.com/mTbM1LD.jpg"
 
-    },
-    {
-      "name": "Running Out",
-      "author": "Nyasha Foya",
-      "url": "http://i.imgur.com/HVFkKoE.jpg"
+		},
+		{
+			"name": "Carlton City",
+			"author": "Nyasha Foya",
+			"url": "http://i.imgur.com/q2mMZnO.jpg"
 
-    },
-    {
-      "name": "Of Names",
-      "author": "Nyasha Foya",
-      "url": "http://i.imgur.com/piu1fsf.jpg"
+		},
+		{
+			"name": "Hazy Reflections",
+			"author": "Nyasha Foya",
+			"url": "http://i.imgur.com/tBEuZeY.jpg"
 
-    },
-    {
-      "name": "Pretty Quickly",
-      "author": "Nyasha Foya",
-      "url": "http://i.imgur.com/ydO19XJ.jpg"
-  
-    },
-    {
-      "name": "Twin Towers",
-      "author": "Nyasha Foya",
-      "url": "http://i.imgur.com/bs7h5st.jpg"
-      
-    },
-    {
-      "name": "City Skyline",
-      "author": "Nyasha Foya",
-      "url": "http://i.imgur.com/8bF0PDU.jpg"
+		},
+		{
+			"name": "Symmetry Road",
+			"author": "Nyasha Foya",
+			"url": "http://i.imgur.com/XDhePRa.jpg"
 
-    },
-    {
-      "name": "Red Skyline",
-      "author": "Nyasha Foya",
-      "url": "http://i.imgur.com/D0vA4TD.jpg"
+		},
+		{
+			"name": "Straight Edge",
+			"author": "Nyasha Foya",
+			"url": "http://i.imgur.com/8XRqin6.jpg"
 
-    },
-    {
-      "name": "Sepia",
-      "author": "Nyasha Foya",
-      "url": "http://i.imgur.com/FfboA9e.jpg"
-     
-    },
-    {
-      "name": "More Sepia",
-      "author": "Nyasha Foya",
-      "url": "http://i.imgur.com/X40cDpV.jpg"
+		},
+		{
+			"name": "Rounded Edge",
+			"author": "Nyasha Foya",
+			"url": "http://i.imgur.com/lSoi2Sm.jpg"
 
-    },
-    {
-      "name": "Tardis",
-      "author": "Nyasha Foya",
-      "url": "http://i.imgur.com/yzI3Cex.jpg"
-      
-    },
-    {
-      "name": "Hazy Skyline",
-      "author": "Nyasha Foya",
-      "url": "http://i.imgur.com/Ww5gKVx.jpg"
-      
-    },
-    {
-      "name": "Empire State",
-      "author": "Nyasha Foya",
-      "url": "http://i.imgur.com/ViKiibT.jpg"
+		},
+		{
+			"name": "The Waves",
+			"author": "Nyasha Foya",
+			"url": "http://i.imgur.com/WIFf8rk.jpg"
 
-    },
-    {
-      "name": "State Empire",
-      "author": "Nyasha Foya",
-      "url": "http://i.imgur.com/YEEkjQW.jpg"
-     
-    },
-    {
-      "name": "Blue Sky",
-      "author": "Nyasha Foya",
-      "url": "http://i.imgur.com/HEyXF0k.jpg"
-    
-    },
-    {
-      "name": "Circular Tower",
-      "author": "Nyasha Foya",
-      "url": "http://i.imgur.com/JFbCu7t.jpg"
-   
-    },
-    {
-      "name": "All Staunch",
-      "author": "Nyasha Foya",
-      "url": "http://i.imgur.com/wO6gHdI.jpg"
+		},
+		{
+			"name": "DeLerosè",
+			"author": "Nyasha Foya",
+			"url": "http://i.imgur.com/wMCuZ8R.jpg"
 
-    },
-    {
-      "name": "No Launch",
-      "author": "Nyasha Foya",
-      "url": "http://i.imgur.com/5VEgXiY.jpg"
-  
-    },
-    {
-      "name": "Taxi Building",
-      "author": "Nyasha Foya",
-      "url": "http://i.imgur.com/byG0O8d.jpg"
-    },
-    {
-      "name": "Sky High",
-      "author": "Nyasha Foya",
-      "url": "http://i.imgur.com/mNVKcBG.jpg"
-    },
-    {
-      "name": "Gray Scale",
-      "author": "Nyasha Foya",
-      "url": "http://i.imgur.com/NOKDzzU.jpg"
-    },
-    {
-      "name": "Water River",
-      "author": "Nyasha Foya",
-      "url": "http://i.imgur.com/oVD2WwK.jpg"
-    },
-    {
-      "name": "Also Sepia",
-      "author": "Nyasha Foya",
-      "url": "http://i.imgur.com/dCAk4z1.jpg"
-    },
-    {
-      "name": "Corrogated Roof",
-      "author": "Nyasha Foya",
-      "url": "http://i.imgur.com/ID7dktc.jpg"
-    },
-    {
-      "name": "Open Path",
-      "author": "Nyasha Foya",
-      "url": "http://i.imgur.com/yAtIlAZ.jpg"
-    },
-    {
-      "name": "A Building",
-      "author": "Nyasha Foya",
-      "url": "http://i.imgur.com/nY75R8E.jpg"
-    },
-    {
-      "name": "Foggy Skyline",
-      "author": "Nyasha Foya",
-      "url": "http://i.imgur.com/eX4qOEV.jpg"
-    },
-    {
-      "name": "Another Building",
-      "author": "Nyasha Foya",
-      "url": "http://i.imgur.com/WCXjWcX.jpg"
-    },
-    {
-      "name": "Car Streaks",
-      "author": "Nyasha Foya",
-      "url": "http://i.imgur.com/AD1ZTPE.jpg"
-    },
-    {
-      "name": "Many Roads",
-      "author": "Nyasha Foya",
-      "url": "http://i.imgur.com/LubJMUn.jpg"
-    },
-    {
-      "name": "Another Path",
-      "author": "Nyasha Foya",
-      "url": "http://i.imgur.com/OMkSQU5.jpg"
-    },
-    {
-      "name": "Night",
-      "author": "Nyasha Foya",
-      "url": "http://i.imgur.com/VdSO4Lg.jpg"
-    },
-     {
-      "name": "Autumn",
-      "author": "Nyasha Foya",
-      "url": "http://i.imgur.com/WLQN526.jpg"
-    },
-     {
-      "name": "Sand Curves",
-      "author": "Nyasha Foya",
-      "url": "http://i.imgur.com/LvMOIQQ.jpg"
-    },
-     {
-      "name": "Mountain Water",
-      "author": "Nyasha Foya",
-      "url": "http://i.imgur.com/8TZQXHb.jpg"
-    },
-     {
-      "name": "Tree Mountain",
-      "author": "Nyasha Foya",
-      "url": "http://i.imgur.com/APCtVY7.jpg"
-    },
-    {
-      "name": "Empire State Empire",
-      "author": "Nyasha Foya",
-      "url": "http://i.imgur.com/yZg69nZ.jpg"
-    },
-     {
-      "name": "Fence Gate",
-      "author": "Nyasha Foya",
-      "url": "http://i.imgur.com/gou4jmF.jpg"
-    },
-       {
-      "name": "Fire Wall",
-      "author": "Nyasha Foya",
-      "url": "http://i.imgur.com/grVo7kz.jpg"
-     },
-       {
-      "name": "Faze Clan",
-      "author": "Nyasha Foya",
-      "url": "http://i.imgur.com/PzeFaaq.jpg"
-    },
-    {
-      "name": "Crystal Sunset",
-      "author": "Nyasha Foya",
-      "url": "http://i.imgur.com/aoFJeMe.jpg"
-    },
-    {
-      "name": "Black Falls",
-      "author": "Nyasha Foya",
-      "url": "http://i.imgur.com/lnBhWbp.jpg"
-    },
-    {
-      "name": "Black Scraper",
-      "author": "Nyasha Foya",
-      "url": "http://i.imgur.com/4C1wj0i.jpg"
-    },
-    {
-      "name": "Water Rock",
-      "author": "Nyasha Foya",
-      "url": "http://i.imgur.com/zAZfBhu.jpg"
-    },
-    {
-      "name": "Event Horizon",
-      "author": "Nyasha Foya",
-      "url": "http://i.imgur.com/RClaKAn.jpg"
-    },
-    {
-      "name": "Rock Ledge",
-      "author": "Nyasha Foya",
-      "url": "http://i.imgur.com/aagAYc8.jpg"
-    },
-    {
-      "name": "Black Ferns",
-      "author": "Nyasha Foya",
-      "url": "http://i.imgur.com/Y6YS650.jpg"
-    },
-    {
-      "name": "Verizon Building",
-      "author": "Nyasha Foya",
-      "url": "http://i.imgur.com/bOccukO.jpg"
-    },
-       {
-      "name": "Sunset Branch",
-      "author": "Nyasha Foya",
-      "url": "http://i.imgur.com/1Beugbv.jpg"
-    },
-    {
-      "name": "Tree Falls",
-      "author": "Nyasha Foya",
-      "url": "http://i.imgur.com/Z7UyuaI.jpg"
-    }
-        },
-    {
-      "name": "Ice Ledge",
-      "author": "Nyasha Foya",
-      "url": "http://i.imgur.com/Z7UyuaI.jpg"
-    },
-    {
-      "name": "Icy Branch",
-      "author": "Nyasha Foya",
-      "url": "http://i.imgur.com/LMTDCGn.jpg"
-    },
-    {
-      "name": "Rolling Waves",
-      "author": "Nyasha Foya",
-      "url": "http://i.imgur.com/Tvu4rM1.jpg"
-    },
-    {
-      "name": "Horizon Event",
-      "author": "Nyasha Foya",
-      "url": "http://i.imgur.com/z2Vo1nF.jpg"
-    },
-    {
-      "name": "Water Beach",
-      "author": "Nyasha Foya",
-      "url": "http://i.imgur.com/XSxezDX.jpg"
-    },
-    {
-      "name": "Water's Edge",
-      "author": "Nyasha Foya",
-      "url": "http://i.imgur.com/SXMwnXg.jpg"
-    },
-    {
-      "name": "Rolling Water",
-      "author": "Nyasha Foya",
-      "url": "http://i.imgur.com/wd87Rvt.jpg"
-    },
-    {
-      "name": "Open Path",
-      "author": "Nyasha Foya",
-      "url": "http://i.imgur.com/jPepxfe.jpg"
-    },
-       {
-      "name": "Closed Path",
-      "author": "Nyasha Foya",
-      "url": "http://i.imgur.com/g5gr2qK.jpg"
-    },
-    {
-      "name": "Path Trees",
-      "author": "Nyasha Foya",
-      "url": "http://i.imgur.com/vgIRZfF.jpg"
-    },
-      {
-      "name": "Cold Leaves",
-      "author": "Nyasha Foya",
-      "url": "http://i.imgur.com/qeatD86.jpg"
-    },
-      {
-      "name": "Rip Curls",
-      "author": "Nyasha Foya",
-      "url": "http://i.imgur.com/EpkxzBf.jpg"
-    }
-    
-  ]
+		},
+		{
+			"name": "Green Forage",
+			"author": "Nyasha Foya",
+			"url": "http://i.imgur.com/JYNoVfM.jpg"
+
+		},
+		{
+			"name": "Running Out",
+			"author": "Nyasha Foya",
+			"url": "http://i.imgur.com/HVFkKoE.jpg"
+
+		},
+		{
+			"name": "Of Names",
+			"author": "Nyasha Foya",
+			"url": "http://i.imgur.com/piu1fsf.jpg"
+
+		},
+		{
+			"name": "Pretty Quickly",
+			"author": "Nyasha Foya",
+			"url": "http://i.imgur.com/ydO19XJ.jpg"
+
+		},
+		{
+			"name": "Twin Towers",
+			"author": "Nyasha Foya",
+			"url": "http://i.imgur.com/bs7h5st.jpg"
+
+		},
+		{
+			"name": "City Skyline",
+			"author": "Nyasha Foya",
+			"url": "http://i.imgur.com/8bF0PDU.jpg"
+
+		},
+		{
+			"name": "Red Skyline",
+			"author": "Nyasha Foya",
+			"url": "http://i.imgur.com/D0vA4TD.jpg"
+
+		},
+		{
+			"name": "Sepia",
+			"author": "Nyasha Foya",
+			"url": "http://i.imgur.com/FfboA9e.jpg"
+
+		},
+		{
+			"name": "More Sepia",
+			"author": "Nyasha Foya",
+			"url": "http://i.imgur.com/X40cDpV.jpg"
+
+		},
+		{
+			"name": "Tardis",
+			"author": "Nyasha Foya",
+			"url": "http://i.imgur.com/yzI3Cex.jpg"
+
+		},
+		{
+			"name": "Hazy Skyline",
+			"author": "Nyasha Foya",
+			"url": "http://i.imgur.com/Ww5gKVx.jpg"
+
+		},
+		{
+			"name": "Empire State",
+			"author": "Nyasha Foya",
+			"url": "http://i.imgur.com/ViKiibT.jpg"
+
+		},
+		{
+			"name": "State Empire",
+			"author": "Nyasha Foya",
+			"url": "http://i.imgur.com/YEEkjQW.jpg"
+
+		},
+		{
+			"name": "Blue Sky",
+			"author": "Nyasha Foya",
+			"url": "http://i.imgur.com/HEyXF0k.jpg"
+
+		},
+		{
+			"name": "Circular Tower",
+			"author": "Nyasha Foya",
+			"url": "http://i.imgur.com/JFbCu7t.jpg"
+
+		},
+		{
+			"name": "All Staunch",
+			"author": "Nyasha Foya",
+			"url": "http://i.imgur.com/wO6gHdI.jpg"
+
+		},
+		{
+			"name": "No Launch",
+			"author": "Nyasha Foya",
+			"url": "http://i.imgur.com/5VEgXiY.jpg"
+
+		},
+		{
+			"name": "Taxi Building",
+			"author": "Nyasha Foya",
+			"url": "http://i.imgur.com/byG0O8d.jpg"
+		},
+		{
+			"name": "Sky High",
+			"author": "Nyasha Foya",
+			"url": "http://i.imgur.com/mNVKcBG.jpg"
+		},
+		{
+			"name": "Gray Scale",
+			"author": "Nyasha Foya",
+			"url": "http://i.imgur.com/NOKDzzU.jpg"
+		},
+		{
+			"name": "Water River",
+			"author": "Nyasha Foya",
+			"url": "http://i.imgur.com/oVD2WwK.jpg"
+		},
+		{
+			"name": "Also Sepia",
+			"author": "Nyasha Foya",
+			"url": "http://i.imgur.com/dCAk4z1.jpg"
+		},
+		{
+			"name": "Corrogated Roof",
+			"author": "Nyasha Foya",
+			"url": "http://i.imgur.com/ID7dktc.jpg"
+		},
+		{
+			"name": "Open Path",
+			"author": "Nyasha Foya",
+			"url": "http://i.imgur.com/yAtIlAZ.jpg"
+		},
+		{
+			"name": "A Building",
+			"author": "Nyasha Foya",
+			"url": "http://i.imgur.com/nY75R8E.jpg"
+		},
+		{
+			"name": "Foggy Skyline",
+			"author": "Nyasha Foya",
+			"url": "http://i.imgur.com/eX4qOEV.jpg"
+		},
+		{
+			"name": "Another Building",
+			"author": "Nyasha Foya",
+			"url": "http://i.imgur.com/WCXjWcX.jpg"
+		},
+		{
+			"name": "Car Streaks",
+			"author": "Nyasha Foya",
+			"url": "http://i.imgur.com/AD1ZTPE.jpg"
+		},
+		{
+			"name": "Many Roads",
+			"author": "Nyasha Foya",
+			"url": "http://i.imgur.com/LubJMUn.jpg"
+		},
+		{
+			"name": "Another Path",
+			"author": "Nyasha Foya",
+			"url": "http://i.imgur.com/OMkSQU5.jpg"
+		},
+		{
+			"name": "Night",
+			"author": "Nyasha Foya",
+			"url": "http://i.imgur.com/VdSO4Lg.jpg"
+		},
+		{
+			"name": "Autumn",
+			"author": "Nyasha Foya",
+			"url": "http://i.imgur.com/WLQN526.jpg"
+		},
+		{
+			"name": "Sand Curves",
+			"author": "Nyasha Foya",
+			"url": "http://i.imgur.com/LvMOIQQ.jpg"
+		},
+		{
+			"name": "Mountain Water",
+			"author": "Nyasha Foya",
+			"url": "http://i.imgur.com/8TZQXHb.jpg"
+		},
+		{
+			"name": "Tree Mountain",
+			"author": "Nyasha Foya",
+			"url": "http://i.imgur.com/APCtVY7.jpg"
+		},
+		{
+			"name": "Empire State Empire",
+			"author": "Nyasha Foya",
+			"url": "http://i.imgur.com/yZg69nZ.jpg"
+		},
+		{
+			"name": "Fence Gate",
+			"author": "Nyasha Foya",
+			"url": "http://i.imgur.com/gou4jmF.jpg"
+		},
+		{
+			"name": "Fire Wall",
+			"author": "Nyasha Foya",
+			"url": "http://i.imgur.com/grVo7kz.jpg"
+		},
+		{
+			"name": "Faze Clan",
+			"author": "Nyasha Foya",
+			"url": "http://i.imgur.com/PzeFaaq.jpg"
+		},
+		{
+			"name": "Crystal Sunset",
+			"author": "Nyasha Foya",
+			"url": "http://i.imgur.com/aoFJeMe.jpg"
+		},
+		{
+			"name": "Black Falls",
+			"author": "Nyasha Foya",
+			"url": "http://i.imgur.com/lnBhWbp.jpg"
+		},
+		{
+			"name": "Black Scraper",
+			"author": "Nyasha Foya",
+			"url": "http://i.imgur.com/4C1wj0i.jpg"
+		},
+		{
+			"name": "Water Rock",
+			"author": "Nyasha Foya",
+			"url": "http://i.imgur.com/zAZfBhu.jpg"
+		},
+		{
+			"name": "Event Horizon",
+			"author": "Nyasha Foya",
+			"url": "http://i.imgur.com/RClaKAn.jpg"
+		},
+		{
+			"name": "Rock Ledge",
+			"author": "Nyasha Foya",
+			"url": "http://i.imgur.com/aagAYc8.jpg"
+		},
+		{
+			"name": "Black Ferns",
+			"author": "Nyasha Foya",
+			"url": "http://i.imgur.com/Y6YS650.jpg"
+		},
+		{
+			"name": "Verizon Building",
+			"author": "Nyasha Foya",
+			"url": "http://i.imgur.com/bOccukO.jpg"
+		},
+		{
+			"name": "Sunset Branch",
+			"author": "Nyasha Foya",
+			"url": "http://i.imgur.com/1Beugbv.jpg"
+		},
+		{
+			"name": "Tree Falls",
+			"author": "Nyasha Foya",
+			"url": "http://i.imgur.com/Z7UyuaI.jpg"
+
+		},
+		{
+			"name": "Ice Ledge",
+			"author": "Nyasha Foya",
+			"url": "http://i.imgur.com/Z7UyuaI.jpg"
+		},
+		{
+			"name": "Icy Branch",
+			"author": "Nyasha Foya",
+			"url": "http://i.imgur.com/LMTDCGn.jpg"
+		},
+		{
+			"name": "Rolling Waves",
+			"author": "Nyasha Foya",
+			"url": "http://i.imgur.com/Tvu4rM1.jpg"
+		},
+		{
+			"name": "Horizon Event",
+			"author": "Nyasha Foya",
+			"url": "http://i.imgur.com/z2Vo1nF.jpg"
+		},
+		{
+			"name": "Water Beach",
+			"author": "Nyasha Foya",
+			"url": "http://i.imgur.com/XSxezDX.jpg"
+		},
+		{
+			"name": "Water's Edge",
+			"author": "Nyasha Foya",
+			"url": "http://i.imgur.com/SXMwnXg.jpg"
+		},
+		{
+			"name": "Rolling Water",
+			"author": "Nyasha Foya",
+			"url": "http://i.imgur.com/wd87Rvt.jpg"
+		},
+		{
+			"name": "Open Path",
+			"author": "Nyasha Foya",
+			"url": "http://i.imgur.com/jPepxfe.jpg"
+		},
+		{
+			"name": "Closed Path",
+			"author": "Nyasha Foya",
+			"url": "http://i.imgur.com/g5gr2qK.jpg"
+		},
+		{
+			"name": "Path Trees",
+			"author": "Nyasha Foya",
+			"url": "http://i.imgur.com/vgIRZfF.jpg"
+		},
+		{
+			"name": "Cold Leaves",
+			"author": "Nyasha Foya",
+			"url": "http://i.imgur.com/qeatD86.jpg"
+		},
+		{
+			"name": "Rip Curls",
+			"author": "Nyasha Foya",
+			"url": "http://i.imgur.com/EpkxzBf.jpg"
+		}
+
+	]
 }
