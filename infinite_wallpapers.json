@@ -1,4 +1,94 @@
-2: "http://i.imgur.com/eRn2Fy7.jpg"
+{
+	"wallpapers": [{
+			"name": "Altima",
+			"author": "Nyasha Foya",
+			"url": "http://i.imgur.com/rB2rCk8.png"
+
+		},
+		{
+			"name": "CityScape",
+			"author": "Nyasha Foya",
+			"url": "http://i.imgur.com/K5CCkJ9.png"
+
+		},
+		{
+			"name": "Dark City",
+			"author": "Nyasha Foya",
+			"url": "https://raw.githubusercontent.com/jahirfiquitiva/MinDesigns-Wallpapers/master/Wallpapers/Free/wallc.jpg"
+
+		},
+		{
+			"name": "MountainScape",
+			"author": "Nyasha Foya",
+			"url": "https://raw.githubusercontent.com/jahirfiquitiva/Website-Resources/master/wallpapers/unsplash_e.png"
+
+		},
+		{
+			"name": "SandScape",
+			"author": "Nyasha Foya",
+			"url": "https://raw.githubusercontent.com/jahirfiquitiva/Website-Resources/master/wallpapers/unsplash_c.png"
+
+		},
+		{
+			"name": "Sky Corner",
+			"author": "Nyasha Foya",
+			"url": "https://raw.githubusercontent.com/jahirfiquitiva/Website-Resources/master/wallpapers/unsplash_h.png"
+
+		},
+		{
+			"name": "Skyline",
+			"author": "Nyasha Foya",
+			"url": "http://i.imgur.com/ouMTVDC.png"
+
+		},
+		{
+			"name": "Sky Scraper",
+			"author": "Nyasha Foya",
+			"url": "http://i.imgur.com/zT6gprE.png"
+
+		},
+		{
+			"name": "Snow Scape",
+			"author": "Nyasha Foya",
+			"url": "https://raw.githubusercontent.com/jahirfiquitiva/Website-Resources/master/wallpapers/unsplash_b.png"
+
+		},
+		{
+			"name": "Water Line",
+			"author": "Nyasha Foya",
+			"url": "https://raw.githubusercontent.com/jahirfiquitiva/Website-Resources/master/wallpapers/unsplash_d.png"
+
+		},
+		{
+			"name": "Pine Stairs",
+			"author": "Tagg Crossroad",
+			"url": "http://i.imgur.com/j8zRf9D.jpg"
+
+		},
+		{
+			"name": "Mono Tree ",
+			"author": "Marcel Ducot",
+			"url": "http://i.imgur.com/Jr526uD.jpg"
+		},
+		{
+			"name": "Android N",
+			"author": "Nyasha Foya",
+			"url": "http://i.imgur.com/BxY6Z7b.png"
+		},
+		{
+			"name": "Jagged Edge",
+			"author": "Nyasha Foya",
+			"url": "http://i.imgur.com/0Inl1Wl.jpg"
+		},
+		{
+			"name": "Blood Haven",
+			"author": "Nyasha Foya",
+			"url": "http://i.imgur.com/PyqLUjy.jpg"
+		},
+		{
+			"name": "Hazy Hills",
+			"author": "Nyasha Foya",
+			"url": "http://i.imgur.com/eRn2Fy7.jpg"
 		},
 		{
 			"name": "Glowing Woods",
